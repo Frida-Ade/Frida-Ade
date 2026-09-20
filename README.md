@@ -1,4 +1,4 @@
-# Boyede_ADE
+# Frida_Ade
 Travaux et projets réalisés en tant que Data Analyst
 
 Je suis une **data analyst** passionnée par les données et la visualisation. Voici quelques domaines dans lesquels je travaille :
